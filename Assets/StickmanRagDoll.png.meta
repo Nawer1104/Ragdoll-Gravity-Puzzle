@@ -1,0 +1,349 @@
+fileFormatVersion: 2
+guid: ccf67cfba07b72e4983996e4b0087f92
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7127351469609962268
+    second: StickmanRagDoll_Head
+  - first:
+      213: 1137445312011753576
+    second: StickmanRagDoll_LowerLeftArm
+  - first:
+      213: -6679586481964063953
+    second: StickmanRagDoll_UpperLeftArm
+  - first:
+      213: -7091503111354003126
+    second: StickmanRagDoll_Body
+  - first:
+      213: -5765880389561229754
+    second: StickmanRagDoll_UpperRightArm
+  - first:
+      213: 7947546761072439982
+    second: StickmanRagDoll_LowerRightArm
+  - first:
+      213: -8904620688263600832
+    second: StickmanRagDoll_UpperLeftLeg
+  - first:
+      213: -5808106943895411792
+    second: StickmanRagDoll_UpperRightLeg
+  - first:
+      213: 6350937597834742860
+    second: StickmanRagDoll_LowerLeftLeg
+  - first:
+      213: -7733700536956073506
+    second: StickmanRagDoll_LowerRightLeg
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 800
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StickmanRagDoll_Head
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 3151
+        width: 727
+        height: 727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e43a88c99f861d90800000000000000
+      internalID: -7127351469609962268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickmanRagDoll_LowerLeftArm
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 2810
+        width: 364
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868d4ed1c7409cf00800000000000000
+      internalID: 1137445312011753576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickmanRagDoll_UpperLeftArm
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 2810
+        width: 818
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23e7001c775d43a0800000000000000
+      internalID: -6679586481964063953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickmanRagDoll_Body
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 2019
+        width: 205
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41da2c1e7be59d90800000000000000
+      internalID: -7091503111354003126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickmanRagDoll_UpperRightArm
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 2810
+        width: 821
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64edfcaa55a7bffa0800000000000000
+      internalID: -5765880389561229754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickmanRagDoll_LowerRightArm
+      rect:
+        serializedVersion: 2
+        x: 2548
+        y: 2810
+        width: 361
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea27789dbab5b4e60800000000000000
+      internalID: 7947546761072439982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickmanRagDoll_UpperLeftLeg
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 1183
+        width: 156
+        height: 820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0452478a9ae6c6480800000000000000
+      internalID: -8904620688263600832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickmanRagDoll_UpperRightLeg
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 1183
+        width: 158
+        height: 820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b362a7d185756fa0800000000000000
+      internalID: -5808106943895411792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickmanRagDoll_LowerLeftLeg
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 774
+        width: 157
+        height: 364
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ccc95b810132850800000000000000
+      internalID: 6350937597834742860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickmanRagDoll_LowerRightLeg
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 796
+        width: 158
+        height: 363
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed94c7726506ca490800000000000000
+      internalID: -7733700536956073506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
